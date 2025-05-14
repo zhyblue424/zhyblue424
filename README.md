@@ -21,3 +21,20 @@ You can click the Preview link to take a look at your changes.
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=zhyblue424&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
+
+<!--
+<p align="center">
+  <!-- ICCV -->
+  <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CVPR_logo.svg" alt="ICCV 2025" height="60">
+  </a>
+  <!-- CVPR -->
+  <a href="https://arxiv.org/abs/yyyy.yyyyy" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CVPR_logo.svg" alt="CVPR 2024" height="60">
+  </a>
+  <!-- NeurIPS -->
+  <a href="https://arxiv.org/abs/zzzz.zzzzz" target="_blank">
+    <img src="https://neurips.cc/Conferences/2023/static/images/logo.svg" alt="NeurIPS 2023" height="60">
+  </a>
+</p> 
+--->
