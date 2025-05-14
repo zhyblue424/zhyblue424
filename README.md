@@ -33,6 +33,12 @@ You can click the Preview link to take a look at your changes.
    <a href="#">
     <img src="./ICCV-logo.svg" alt="ICCV 2025" height="100">
   </a>
+   <a href="#">
+    <img src="./NeurIPS-logo.png" alt="NeurIPS 2024" height="100">
+  </a>
+   <a href="#">
+    <img src="./ICCV-logo.svg" alt="ICCV 2025" height="100">
+  </a>
 </p>
 
 
