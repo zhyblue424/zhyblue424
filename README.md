@@ -23,19 +23,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<table>
-  <tr>
-    <!-- 左列：NeurIPS -->
-    <td align="left">
-      <a>
-        <img src="./NeurIPS-logo.png" alt="NeurIPS 2024" height="60">
-      </a>
-    </td>
-    <td align="left">
-      <a>
-        <img src="./NeurIPS-logo.png" alt="CVPR 2024" height="60">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="#">
+    <img src="./NeurIPS-logo.png" alt="NeurIPS 2024" height="100">
+  </a>
+  <a href="#">
+    <img src="./NeurIPS-logo.png" alt="NeurIPS 2024" height="100">
+  </a>
+</p>
+
+
 
